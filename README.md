@@ -2,7 +2,7 @@
 
 La mise est production des modèles encore appélée déploiement est une étape très importante des projets de Data Science. 
 
- ![](./deployment_schema.PNG)<!-- -->
+ ![](./deployment.PNG)<!-- -->
 
 
 Le but de ce repositoire est de mettre en oeuvre une simulation de deploiement de modèles en cas réels.
