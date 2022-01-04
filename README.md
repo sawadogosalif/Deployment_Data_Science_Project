@@ -3,7 +3,8 @@
 Le but de ce repositoire est de mettre en oeuvre une simulation de deploiement de modèles en cas réels.
 Dans la pratique un projet Data Science ne se limite pas à des modèles de machine learning. En effet, plusieurs opérations sont réaslisées.
 
-Exemple :
+Exemple : ![](./schema.PNG)<!-- -->
+
 
 
 
