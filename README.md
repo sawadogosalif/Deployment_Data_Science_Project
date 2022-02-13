@@ -16,7 +16,7 @@ L'ensemble des travaux ci-dessus est inspiré des cours de Ricco Rakotomalala,
 
 Les Type de déploiements
 
-+Process Equipe Data Science
++ Process Equipe Data Science
 + Intégration par les équipes IT 
 + Déploiement via Notebook pour un utilisateur final
 + Application Voila
