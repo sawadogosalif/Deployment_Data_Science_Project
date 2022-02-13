@@ -11,4 +11,14 @@ Dans la pratique un projet Data Science ne se limite pas à des modèles de mach
 
  ![](./schema.PNG)<!-- -->
 
-L'ensemble des trvaux est inspiré des cours de Ricco Rakotomalala, Université Lumière Lyon 2
+L'ensemble des travaux ci-dessus est inspiré des cours de Ricco Rakotomalala,
+
+
+Les Type de déploiements
+
+• Process Equipe Data Science
+• Intégration par les équipes IT 
+• Déploiement via Notebook pour un utilisateur final
+• Application Voila
+• Application Streamlit
+• API FlasK
