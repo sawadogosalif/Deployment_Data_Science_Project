@@ -14,7 +14,7 @@ Dans la pratique un projet Data Science ne se limite pas à des modèles de mach
 L'ensemble des travaux ci-dessus est inspiré des cours de Ricco Rakotomalala,
 
 
-Les Type de déploiements
+Les Types de déploiements :
 
 + Process Equipe Data Science
 + Intégration par les équipes IT 
