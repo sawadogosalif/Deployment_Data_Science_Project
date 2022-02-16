@@ -76,14 +76,16 @@ X_profil = pd.DataFrame(     [[          Status_of_existing_checking_account,
                                              'Purpose', 'Other_installment_plans'
                                             ]
                         )
-proba = round(modele.predict(X_profil).iloc[0],3)
+
+  
+if(st.button("Calculer le score")): 
+    proba = round(modele.predict(X_profil).iloc[0],3)
 
 
-# appeler la fonclion cliked_button lorsqu'on appui sur cliquer
-st.subheader("Résultat du score")
-st.write(f"Probabilité calculée {proba}")
-if proba< ref:
-    st.success("Client crédible  : 👍 Go pour le crédit")
-else:
-    st.error("Probabilité >= 20% : 😭 Refus du crédit")
-    
+    # appeler la fonclion cliked_button lorsqu'on appui sur cliquer
+    st.subheader("Résultat du score")
+    st.write(f"Probabilité calculée {proba}")
+    if proba< ref:
+       st.success("Client crédible  : 👍 Go pour le crédit")
+    else:
+       st.error("Probabilité >= 20% : 😭 Refus du crédit")
