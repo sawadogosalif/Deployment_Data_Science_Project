@@ -1,13 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Feb 11 01:47:20 2021
+Created on Thu Feb 11 01:47:20 2022
 
-utils_ml.py : utilitaires pour le cours de Data Mining
 
-@author: erwann bargain
-02/02/2021  eba   Création d'un df de synthèse
-27/01/2021  eba   Rajout de "==============" dans la fonction valid_df pour mieux voir les résultats
-11/02/2021  eba   1ère version qui va vite évoluer
+@author: Salif sawadogo
+11/02/2022    1ère version qui va vite évoluer
 """
 
 import numpy as np
