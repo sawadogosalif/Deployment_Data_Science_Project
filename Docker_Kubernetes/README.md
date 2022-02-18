@@ -6,11 +6,5 @@ Docker is a software that allows you to containerize applications while Kubernet
 
 + DOCKER = ENVIRONNEMENT STANDARIZATION : BUILDING ONE AND DEPLOY IT EVERYWHERE
 
-
-VIRTUAL MACHINE VS DOCKER               VIRTUALIZATION
-
-Not good to allocate ressources	 
-Virtualisation in top of OS
-
-SCALLABILITY
++ DOCKER + KUBERNETES = SCALABILITY for ML models deployment
 
