@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+datetime
+matplotlib
+streamlit == 1.5.1
+seaborn
+sklearn
+ipywidgets
+IPython
+statsmodels
+pickle5
