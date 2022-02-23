@@ -1,0 +1,3 @@
+cd C:\Users\u32118508\OneDrive - UPEC\Bureau\PyBooks\Applications\Scoring\deployment
+docker build -t scoring_api .
+docker run -p 8000:8000 scoring_api
