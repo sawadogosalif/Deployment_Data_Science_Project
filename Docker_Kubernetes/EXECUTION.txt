@@ -1,3 +1,11 @@
-cd C:\Users\u32118508\OneDrive - UPEC\Bureau\PyBooks\Applications\Scoring\deployment
+=====create image================
+cd C:\Users\deployment
 docker build -t scoring_api .
 docker run -p 8000:8000 scoring_api
+
+
+======push image on dockerhub==========
+
+docker image ls # list of docker image we created
+docker tag bank_api sawalle/bank_api:V1 #Tag the image (not required)
+docker  push sawalle/bank_api:V1
