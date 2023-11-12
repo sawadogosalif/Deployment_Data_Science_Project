@@ -12,7 +12,7 @@ Flask vous donne la possibilité de concevoir votre application à partir de zé
 
 D'un autre côté, Dash se présente comme un allié précieux lorsque la visualisation de données est au cœur de votre projet. Construit au-dessus de Flask, Dash offre des composants de niveau supérieur qui simplifient la création de tableaux de bord interactifs et d'applications axées sur les données.
 
-L'utilisation du protocole Gunicorn renforce la stabilité et la performance de Dash, en en faisant un choix robuste pour les projets de visualisation de données nécessitant une exécution fluide.
+L'utilisation du protocole *Gunicorn* comme Flask renforce la stabilité et la performance de Dash, en en faisant un choix robuste pour les projets de visualisation de données nécessitant une exécution fluide.
 
 **Choisir en Fonction de Vos Besoins**
 
@@ -21,3 +21,5 @@ En réfléchissant à mes propres projets, j'ai compris que le choix entre Dash 
 Avant de faire votre choix, évaluez attentivement les exigences de votre projet. Si la simplicité et la flexibilité sont cruciales, Flask pourrait être votre meilleur allié. Cependant, si la visualisation de données est primordiale, Dash pourrait accélérer significativement le développement de votre application.
 
 En conclusion, naviguer entre Dash et Flask pour vos applications web en Python demande une compréhension claire de vos besoins. Mon expérience m'a montré que choisir judicieusement entre ces deux frameworks peut grandement faciliter le processus de création et améliorer la performance de votre application. Bon développement !
+
+Les deux frameworks ne sont pas compatibles au protocs ASGI(Uvicorn).
