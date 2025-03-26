@@ -11,14 +11,14 @@ Dans la pratique un projet Data Science ne se limite pas à des modèles de mach
 
  ![](./schema.PNG)<!-- -->
 
-L'ensemble des travaux ci-dessus est inspiré des cours de Ricco Rakotomalala,
 
 
 Les Types de déploiements :
 
 + Process Equipe Data Science
-+ Intégration par les équipes IT 
++ Intégration par les équipes IT
 + Déploiement via Notebook pour un utilisateur final
 + Application Voila
 + Application Streamlit
 + API FlasK
++  Dockers et Kubernetes
